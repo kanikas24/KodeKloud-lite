@@ -10,8 +10,7 @@ Despite the challenges, I truly enjoyed working on this assignment. It not only 
 
 ## 📱 Demo
 
-[Add screenshots or GIF demo here]
-
+Drive Link: (https://drive.google.com/drive/folders/1GsbmmixYtJvOFn3FHesuQBR-OKPv_C7d?usp=sharing)
 ### Core Requirements ✅
 
 #### 1. **Browse Courses**
